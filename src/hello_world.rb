@@ -1,1 +1,3 @@
-puts "Hello World!"
+class HelloWorld
+    puts "Hello World!"
+end
